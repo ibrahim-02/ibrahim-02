@@ -26,13 +26,18 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 - Implemented CI/CD pipelines using SFDX CLI for streamlined deployments
 ## 🚀 Featured Projects
 
-### 🌦️ [Weather Data Pipeline](link-to-repo)
-**Apache Airflow | AWS EC2 | PostgreSQL**
+### 🌦️ [CloudScale-Weather-Intelligence-ETL-Pipeline](https://github.com/ibrahim-02/CloudScale-Weather-Intelligence-ETL-Pipeline)
+**Apache Airflow | AWS EC2 | API | Python**
 - Automated weather data extraction from OpenWeatherMap API
 - Orchestrated ETL workflows with Airflow DAGs on AWS EC2
 - Built scalable data warehouse for historical weather analysis
 
-### 🧬 [Protein Localization Prediction](link-to-repo)
+### 🏥 [Insurance Claim Lifecycle Agent using Amazon Bedrock]( https://github.com/ibrahim-02/insurance-bedrock-agent)
+**Amazon Bedrock Agents | AWS Lambda | OpenAPI | Streamlit | S3**
+- Developed AI-powered insurance agent with orchestration logic for claim creation, status tracking, and document management
+- Implemented Action Groups with OpenAPI schemas for structured API invocation and embedded Knowledge Base for FAQ retrieval
+- Built end-to-end workflow with agent tracing for debugging reasoning, tool selection, and Lambda execution across transactional tasks
+🧬 [Protein Localization Prediction](link-to-repo)
 **PySpark ML | Databricks | Random Forest**
 - Achieved **77% accuracy** predicting protein cellular locations
 - Processed large-scale biological datasets using PySpark on Databricks
@@ -99,7 +104,7 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 
 💡 **Open to:** Data Science | Business Intelligence | Analytics Engineering roles  
 🎯 **Location:** Boston, MA (Open to relocation)  
-🔍 **Seeking:** Spring 2026 Co-op Opportunities
+🔍 **Seeking:** Full Tine Oppurtunites
 
 ---
 
