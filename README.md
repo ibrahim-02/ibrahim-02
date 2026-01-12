@@ -49,11 +49,11 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 - Created KPI metrics for default prediction and risk segmentation
 - Visualized trends in credit utilization and payment behavior
 
-### 📊 [Supply Chain Analytics](link-to-repo)
-**Python | Plotly | Dimensional Modeling**
-- Designed star schema data warehouse for supply chain operations
-- Built interactive visualizations tracking inventory and shipping metrics
-- Implemented OLAP operations for multidimensional analysis
+### 📊 [Actuarial Insigths System for Insurance Product Optimization](https://github.com/ibrahim-02/Actuarial-Insigths-System-for-Insurance-Product-Optimization)
+**Python | Plotly | Numpy | Matplotlib**
+- Analyzed 105k+ insurance records with automated feature engineering for age, driving experience, vehicle age, and loss ratios
+- Performed comprehensive risk segmentation across 6 dimensions (policy distribution, demographics, vehicle risks, claims behavior, geography)
+- Generated 12 interactive visualizations revealing loss ratio patterns, claims frequency trends, and correlation analysis for product optimization 
 
 ---
 
