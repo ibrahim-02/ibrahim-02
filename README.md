@@ -1,4 +1,4 @@
-# Hi there, I'm Ibrahim 👋
+# Hi there, I'm Mohammed👋
 
 ## 🎓 MS Data Analytics Student @ Northeastern University | Aspiring Analytical Engineer
 
