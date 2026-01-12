@@ -91,8 +91,8 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 ## 📈 Currently Working On
 - 🔨 Advanced dimensional modeling and data warehouse design
 - 📊 Building portfolio of interactive data storytelling projects
-- 🤖 Exploring ML applications in Fintech and Banking
-- 📚 Preparing for Spring 2026 co-op interviews
+- 🤖 Exploring AI applications in Fintech and Helthcare
+- 📚 Preparing for Full Time interviews
 
 ---
 
@@ -102,7 +102,7 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdibbu440@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://www.datascienceportfol.io/mdibbu440)
 
-💡 **Open to:** Data Science | Business Intelligence | Analytics Engineering roles  
+💡 **Open to:** Data Science | AI Engineering| Analytics Engineering roles  
 🎯 **Location:** Boston, MA (Open to relocation)  
 🔍 **Seeking:** Full Tine Oppurtunites
 
