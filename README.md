@@ -2,12 +2,12 @@
 
 ## 🎓 MS Data Analytics Student @ Northeastern University | Aspiring Analytical Engineer
 
-I'm a data enthusiast passionate about transforming raw data into actionable insights. Currently pursuing my Master's in Data Analytics (GPA: 3.8) and actively seeking co-op opportunities in **Data Science**, **Business Intelligence**, and **Analytics Engineering**.
+I'm a data enthusiast passionate about transforming raw data into data driven. Currently pursuing my Master's in Data Analytics (GPA: 3.8) and actively seeking Full Time opportunities in **Data Science**, **Business Intelligence**, and **Analytics Engineering**.
 
 ### 🔍 What I Do
 - Build **end-to-end ML pipelines** from data collection to model deployment
 - Design **data warehouses** and **ETL workflows** for scalable analytics
-- Create **interactive dashboards** and data visualizations that tell compelling stories
+- Create **dashboards** and data visualizations that tell compelling stories
 - Apply analytics to solve real-world business problems with measurable impact
 
 ---
