@@ -92,7 +92,7 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 - 🔨 Advanced dimensional modeling and data warehouse design
 - 📊 Building portfolio of interactive data storytelling projects
 - 🤖 Exploring AI applications in Fintech and Helthcare
-- 📚 Preparing for Full Time interviews
+  
 
 ---
 
