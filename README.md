@@ -37,11 +37,6 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 - Developed AI-powered insurance agent with orchestration logic for claim creation, status tracking, and document management
 - Implemented Action Groups with OpenAPI schemas for structured API invocation and embedded Knowledge Base for FAQ retrieval
 - Built end-to-end workflow with agent tracing for debugging reasoning, tool selection, and Lambda execution across transactional tasks
-🧬 [Protein Localization Prediction](link-to-repo)
-**PySpark ML | Databricks | Random Forest**
-- Achieved **77% accuracy** predicting protein cellular locations
-- Processed large-scale biological datasets using PySpark on Databricks
-- Implemented feature engineering and hyperparameter optimization
 
 ### 💳 [Credit Risk Analysis Dashboard](link-to-repo)
 **Power BI | SQL | DAX**
