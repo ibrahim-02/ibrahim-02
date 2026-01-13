@@ -86,9 +86,9 @@ I'm a data enthusiast passionate about transforming raw data into data driven. C
 ---
 
 ## 📈 Currently Working On
-- 🔨 Advanced dimensional modeling and data warehouse design
-- 📊 Building portfolio of interactive data storytelling projects
-- 🤖 Exploring AI applications in Fintech and Helthcare
+- Advanced dimensional modeling and data warehouse design
+- Building portfolio of interactive data storytelling projects
+- Exploring AI applications in Fintech and Helthcare
   
 
 ---
@@ -98,9 +98,9 @@ I'm a data enthusiast passionate about transforming raw data into data driven. C
 [LinkedIn](https://www.linkedin.com/in/mohammed-ibrahim-a37567229/)  
 [Email](mailto:mdibbu440@gmail.com)
 
-💡 **Open to:** Data Science | AI Engineering| Analytics Engineering roles | Business Intelligence 
-🎯 **Location:** Boston, MA (Open to relocation)  
-🔍 **Seeking:** Full Tine Oppurtunites
+**Open to:** Data Science | AI Engineering| Analytics Engineering roles | Business Intelligence 
+**Location:** Boston, MA (Open to relocation)  
+**Seeking:** Full Tine Oppurtunites
 
 ---
 
