@@ -2,12 +2,12 @@
 
 ## 🎓 MS Data Analytics Student @ Northeastern University | Aspiring Analytical Engineer
 
-I'm a data enthusiast passionate about transforming raw data into data driven. Currently pursuing my Master's in Data Analytics (GPA: 3.8) and actively seeking Full Time opportunities in **Data Science**, **Business Intelligence**, and **Analytics Engineering**.
+I'm a data enthusiast passionate about transforming raw data into data driven. Currently pursuing my Master's in Data Analytics (GPA: 3.8) and actively seeking Full Time opportunities in **Data Science**, **AI Engineer**, and **Analytics Engineering**.
 
 ### 🔍 What I Do
 - Build **end-to-end ML pipelines** from data collection to model deployment
 - Design **data warehouses** and **ETL workflows** for scalable analytics
-- Create **dashboards** and data visualizations that tell compelling stories
+- Create **dashboards** and data **visualizations** that tell compelling stories
 - Apply analytics to solve real-world business problems with measurable impact
 
 ---
@@ -19,32 +19,32 @@ I'm a data enthusiast passionate about transforming raw data into data driven. C
 - Built XGBoost model (82% AUC) predicting customer churn, delivering $1.3M in business value
 - Engineered features and created interactive dashboards for executive decision-making
 
-### 🏆 Smart Internz
-**SalsesForce Data Analyst Intern | CRM Analytics & Automation**
+### 🏆 Salesforce
+**Data Analyst Intern | CRM Analytics & Automation**
 - Automated workflows with Salesforce Flows and Apex, cutting manual operations by 70%
 - Designed data models and built custom dashboards tracking sales and service KPIs
 - Implemented CI/CD pipelines using SFDX CLI for streamlined deployments
 ## 🚀 Featured Projects
 
-### 🌦️ [CloudScale-Weather-Intelligence-ETL-Pipeline](https://github.com/ibrahim-02/CloudScale-Weather-Intelligence-ETL-Pipeline)
+### [CloudScale-Weather-Intelligence-ETL-Pipeline](https://github.com/ibrahim-02/CloudScale-Weather-Intelligence-ETL-Pipeline)
 **Apache Airflow | AWS EC2 | API | Python**
 - Automated weather data extraction from OpenWeatherMap API
 - Orchestrated ETL workflows with Airflow DAGs on AWS EC2
 - Built scalable data warehouse for historical weather analysis
 
-### 🏥 [Insurance Claim Lifecycle Agent using Amazon Bedrock]( https://github.com/ibrahim-02/insurance-bedrock-agent)
+### [Insurance Claim Lifecycle Agent using Amazon Bedrock]( https://github.com/ibrahim-02/insurance-bedrock-agent)
 **Amazon Bedrock Agents | AWS Lambda | OpenAPI | Streamlit | S3**
 - Developed AI-powered insurance agent with orchestration logic for claim creation, status tracking, and document management
 - Implemented Action Groups with OpenAPI schemas for structured API invocation and embedded Knowledge Base for FAQ retrieval
 - Built end-to-end workflow with agent tracing for debugging reasoning, tool selection, and Lambda execution across transactional tasks
 
-### 💳 [Credit Risk Analysis Dashboard](link-to-repo)
+### [Credit Risk Analysis Dashboard](link-to-repo)
 **Power BI | SQL | DAX**
 - Developed interactive Power BI dashboard analyzing 30K+ loan applications
 - Created KPI metrics for default prediction and risk segmentation
 - Visualized trends in credit utilization and payment behavior
 
-### 📊 [Actuarial Insigths System for Insurance Product Optimization](https://github.com/ibrahim-02/Actuarial-Insigths-System-for-Insurance-Product-Optimization)
+### [Actuarial Insigths System for Insurance Product Optimization](https://github.com/ibrahim-02/Actuarial-Insigths-System-for-Insurance-Product-Optimization)
 **Python | Plotly | Numpy | Matplotlib**
 - Analyzed 105k+ insurance records with automated feature engineering for age, driving experience, vehicle age, and loss ratios
 - Performed comprehensive risk segmentation across 6 dimensions (policy distribution, demographics, vehicle risks, claims behavior, geography)
@@ -57,13 +57,15 @@ I'm a data enthusiast passionate about transforming raw data into data driven. C
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 **ML & Data Science:**  
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EE4C2C?style=flat)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Data Engineering:**  
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
@@ -93,11 +95,10 @@ I'm a data enthusiast passionate about transforming raw data into data driven. C
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ibrahim-a37567229/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdibbu440@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://www.datascienceportfol.io/mdibbu440)
+[LinkedIn](https://www.linkedin.com/in/mohammed-ibrahim-a37567229/)  
+[Email](mailto:mdibbu440@gmail.com)
 
-💡 **Open to:** Data Science | AI Engineering| Analytics Engineering roles  
+💡 **Open to:** Data Science | AI Engineering| Analytics Engineering roles | Business Intelligence 
 🎯 **Location:** Boston, MA (Open to relocation)  
 🔍 **Seeking:** Full Tine Oppurtunites
 
