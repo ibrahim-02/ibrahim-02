@@ -29,10 +29,6 @@ Data Engineer with 3+ years of experience designing and building robust data pip
 - Developed KPIs including consumption trends, net-margin performance, and CLV to identify profitability drivers and high-risk segments
 - Visualized churn trends in matplotlib/seaborn, surfacing that low-net-margin customers with declining consumption were **2× more likely to churn**
 
-### 🏆 Salesforce — *Data Analyst Intern* | CRM Analytics & Automation
-- Automated workflows with Salesforce Flows and Apex, cutting manual operations by **70%**
-- Designed data models and built custom dashboards tracking sales and service KPIs
-- Implemented CI/CD pipelines using SFDX CLI for streamlined deployments
 
 ---
 
